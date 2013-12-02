@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>APP</title>
+	<title>new index APP</title>
 </head>
 <body>
-	<?php echo "H I ! Хай";?>
+	<?php echo "Новый";?>
 	<br> Мазай?
 </body>
 </html>
