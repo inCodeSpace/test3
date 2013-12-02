@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>new index APP</title>
+	<title>APP</title>
 </head>
 <body>
-	<?php echo "Новый";?>
-	<br> Мазай?
+	<?php echo "Обновление Новый";?>
+	<br>
+	<center><h2>Мазай - Must Die</h2></center>
 </body>
 </html>
 
