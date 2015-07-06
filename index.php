@@ -10,6 +10,8 @@
 	<center>
 		<h2>Мазай - Must Die</h2>
 		Просто контент
+        <br>
+        LOL (06.07.15)
 	</center>
 </body>
 </html>
